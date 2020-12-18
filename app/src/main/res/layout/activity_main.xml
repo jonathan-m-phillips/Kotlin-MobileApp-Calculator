@@ -158,7 +158,7 @@
                 android:layout_weight="1"
                 android:textSize="25dp"
                 android:text="."
-                android:onClick="onDigit"/>
+                android:onClick="onDecimalPoint"/>
 
         <Button
                 android:id="@+id/btnZero"
